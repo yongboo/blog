@@ -146,7 +146,7 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: right
+  position: left
   #position: right
 
   # Sidebar Display, available value:
@@ -249,7 +249,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night eighties
+highlight_theme: normal
 
 
 # ---------------------------------------------------------------
